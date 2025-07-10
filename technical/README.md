@@ -1,7 +1,6 @@
 ## Technical task
 
-Brief description
--
+### Brief description
 
 Develop a web service for managing cinema tickets.
 
