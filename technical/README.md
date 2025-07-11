@@ -29,4 +29,4 @@ Stack technologies which must be involved on project:
 2. Single page which display:
 - list of movies with sessions
 - the session has info about visitor which bought tickets ant total sum
-- simple form for buy ticket
+- simple form for buy/cancel ticket
