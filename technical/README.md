@@ -22,11 +22,10 @@ Stack technologies which must be involved on project:
 1. microservice by rest API with Swagger UI main API-ends:
 - movies: CRUD
 - movie's session CRUD
-- ticket to session: buy/cancel, price 
-- visitor: CRUD, (probability of visiting each movie session 92-98%)
-- statistics by day, week: tickets, visitors visited/missed movies, spent money
+- ticket to session: buy, price 
+- statistics by day, week: tickets, resume session sum
 
 2. Single page which display:
 - list of movies with sessions
 - the session has info about visitor which bought tickets ant total sum
-- simple form for buy/cancel ticket
+- simple form for buy ticket
