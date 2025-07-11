@@ -9,13 +9,12 @@ Stack technologies which must be involved on project:
 - Framework: Symfony (^4|5|6)
 - Architecture pattens:  DDD, MVC
 - Code style: PSR
-- Code patterns: Factory (symfony in-built), Decorator (symfony in-built), Strategy 
+- Code patterns (at least factory symfony in-built)
 - DB entities: films, tickets, visitors (Mysql, Doctrine)
 - DB migrations includes indexes for main queries
 - Tests: few tests (Behat + Phpunit)
 - Cache: Redis (simple cache)
 - API UI: swagger
-
 
 ### Need to implement:
 
