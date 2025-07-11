@@ -16,9 +16,17 @@ Stack technologies which must be involved on project:
 - Cache: Redis (simple cache)
 - API UI: swagger
 
-Its just a microservice with rest API. Main features:
+
+Need to implement:
+
+1. microservice by rest API with Swagger UI main API-ends:
 - movies: CRUD
 - movie's session CRUD
 - ticket to session: buy/cancel, price 
 - visitor: CRUD, (probability of visiting each movie session 92-98%)
 - statistics by day, week: tickets, visitors visited/missed movies, spent money
+
+2. Single page which display:
+- list of movies with sessions
+- the session has info about visitor which bought tickets ant total sum
+- simple form for buy ticket
